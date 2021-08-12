@@ -1,0 +1,3 @@
+D:/Alexey/CLionProjects/Stepik/Functions/Task14(queens)/cmake-build-debug/CMakeFiles/Task14_queens_.dir
+D:/Alexey/CLionProjects/Stepik/Functions/Task14(queens)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Alexey/CLionProjects/Stepik/Functions/Task14(queens)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
